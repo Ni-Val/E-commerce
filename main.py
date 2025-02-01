@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib
 matplotlib.use("TkAgg")  # Set the backend to TkAgg
 
+
 import matplotlib.pyplot as plt
 
 # Connect to the MySQL database
