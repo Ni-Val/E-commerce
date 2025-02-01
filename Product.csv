@@ -1,0 +1,101 @@
+product_id,product_name,price,category_id
+1,Vanilla Bean Greek Yogurt,1.99,1
+2,Electric Skillet,49.99,8
+3,Classic Leather Wallet,34.99,48
+4,Trackpad for Laptop,49.99,94
+5,Black Bean Spaghetti,3.99,25
+6,Miso Dressing,3.49,61
+7,Baby Safety Corner Guards,9.99,82
+8,Baked Mac and Cheese,5.99,17
+9,Surimi Crab Sticks,4.19,3
+10,Cucumber Lime Sparkling Water,1.49,20
+11,Oatmeal Raisin Cookies,3.49,41
+12,Essential Oils Diffuser Necklace,19.99,32
+13,Memory Foam Mattress Pad,69.99,35
+14,Electric Fondue Pot,39.99,73
+15,Lentils,2.99,49
+16,Sun-Dried Tomato Pesto,4.49,47
+17,Nut Mix,5.99,87
+18,Lentils,2.99,92
+19,French Bread,2.49,63
+20,Cherry Almond Protein Bar,1.99,72
+21,Cinnamon Raisin Bread,3.79,2
+22,Personal Blender,39.99,85
+23,Electric Bike,899.99,61
+24,Crew Neck Sweater,39.99,32
+25,Eco-Friendly Cleaning Cloths,12.99,52
+26,Tactical Backpack,59.99,58
+27,Basketball,29.99,60
+28,Ready-to-Eat Chili,2.99,59
+29,Set of Silicone Baking Molds,15.99,7
+30,Adjustable Bar Stools,149.99,51
+31,Set of Decorative Storage Bins,34.99,11
+32,Cacao Powder,4.49,68
+33,Cable Knit Beanie,19.99,72
+34,Interactive Robot Toy,34.99,47
+35,Compact Umbrella,12.99,32
+36,Outdoor Sports Backpack,49.99,79
+37,Desk Organizer Set,29.99,66
+38,Collapsible Camping Cup,9.99,8
+39,Tuna Fish (canned),2.29,40
+40,Travel Pillow,22.99,38
+41,Silicone Baking Molds,15.99,59
+42,Coconut Water,2.49,85
+43,Leather Biker Jacket,129.99,100
+44,Eco-Friendly Yoga Blocks,15.99,46
+45,Pet Hair Removal Roller,10.99,70
+46,Sushi Rice,3.99,54
+47,Cinnamon Roll Dough,4.49,47
+48,Energy Protein Bars,2.29,7
+49,Bamboo Charcoal Air Purifier Bags,12.99,43
+50,Aeropress Coffee Maker,29.99,90
+51,Kids' Educational Tablet,129.99,79
+52,Herbed Chicken Breast,7.99,34
+53,Protein Pancake Mix,3.99,52
+54,Wall Decals for Kids,24.99,90
+55,Oven-Baked Potato Chips,2.79,57
+56,Portable Hand Warmer,24.99,57
+57,Faux Leather Leggings,49.99,97
+58,Scent Diffuser Oil,14.99,42
+59,Garlic Herb Cream Cheese,2.99,23
+60,Smartphone Projector Kit,24.99,20
+61,Fitness Tracker with Heart Rate Monitor,59.99,86
+62,Basil-infused Olive Oil,6.99,21
+63,Bamboo Bathtub Caddy,34.99,18
+64,Almond Flour Bread Mix,4.89,69
+65,Peanut Butter Banana Smoothie Mix,4.49,72
+66,Active Racerback Tank,24.99,16
+67,Peanut Butter,3.79,91
+68,Kids' Art Supplies Kit,29.99,60
+69,Puzzle Game Set,34.99,90
+70,Digital Photo Frame,79.99,66
+71,Fitness Balance Ball,24.99,46
+72,Magnetic Phone Car Mount,14.99,27
+73,Chocolate Mint Thins,2.99,88
+74,Buffalo Wing Sauce,3.99,18
+75,Mango Chunks,4.89,29
+76,Peanut Butter,3.79,62
+77,Kids' Gardening Kit,24.99,14
+78,Nature Explorer Lens Kit,19.99,90
+79,Peach Slices in Syrup,2.59,92
+80,White Rice,1.49,92
+81,Wi-Fi Enabled Smart Light Switch,24.99,57
+82,Cinnamon Raisin Bread,3.79,70
+83,Smoked Paprika,2.99,51
+84,Outdoor Camping Lantern,34.99,85
+85,Oven-Baked Potato Chips,2.79,89
+86,Adjustable Skipping Rope,12.99,77
+87,Tennis Racket,89.99,97
+88,Eco-Friendly Yoga Blocks,15.99,30
+89,Raisin Cinnamon Granola,3.79,61
+90,Quinoa,4.49,98
+91,Outdoor Portable Fire Pit,149.99,61
+92,Gluten-Free Pancake Mix,5.99,95
+93,Smartphone Projector,29.99,58
+94,Weighted Blanket,79.99,66
+95,Handmade Wooden Utensil Set,24.99,76
+96,Honey,5.49,56
+97,Reusable Snack Bags,14.99,94
+98,Beef Stew Meat,5.99,31
+99,Car Vacuum,49.99,27
+100,Mediterranean Couscous,3.59,26

@@ -1,0 +1,101 @@
+address_id,street,city,state,zipCode,country
+1,12503 Sherman Street,Dallas,Texas,75260,United States
+2,55 Brine Way,Fairbanks,Alaska,99790,United States
+3,10401 Thunderbird Way,Cleveland,Ohio,44118,United States
+4,7769 Trulli Terrace,Rochester,Minnesota,55905,United States
+5,1952 Carrera Drive,San Diego,California,92170,United States
+6,4509 Hyacinth Street,Saint Petersburg,Florida,33742,United States
+7,12555 Panama Place,Dallas,Texas,75342,United States
+8,14528 Austin Avenue,Seattle,Washington,98185,United States
+9,2309 Artesia Avenue,South Lake Tahoe,California,96154,United States
+10,6039 Devon Drive,Indianapolis,Indiana,46221,United States
+11,4014 Walden Way,Miami,Florida,33124,United States
+12,13486 Emmalee Place,San Angelo,Texas,76905,United States
+13,13369 Poinsett Court,Longview,Texas,75605,United States
+14,6077 Costa Mesa Drive,Indianapolis,Indiana,46254,United States
+15,12106 View Path,Amarillo,Texas,79116,United States
+16,6249 Conway Court,Shawnee Mission,Kansas,66276,United States
+17,13608 Bradshaw Lane,San Antonio,Texas,78291,United States
+18,6381 Cordero Court,Frankfort,Kentucky,40618,United States
+19,8568 Starr Lane,Greensboro,North Carolina,27425,United States
+20,4971 Bradshaw Lane,Colorado Springs,Colorado,80920,United States
+21,2511 Burgess Drive,Topeka,Kansas,66606,United States
+22,6265 Acorn Court,Rochester,New York,14646,United States
+23,10057 Roswell Road,Buffalo,New York,14215,United States
+24,9568 Hartford Path,Washington,District of Columbia,20005,United States
+25,2972 Combs Court,Chicago,Illinois,60619,United States
+26,5551 Nackman Place,Apache Junction,Arizona,85219,United States
+27,6603 Chaparral Drive,El Paso,Texas,79994,United States
+28,462 Palatine Court,Tampa,Florida,33610,United States
+29,12753 Eubanks Lane,Columbus,Ohio,43268,United States
+30,4596 Las Pacos Court,Saint Paul,Minnesota,55115,United States
+31,10514 Wax Berry Court,Huntington,West Virginia,25705,United States
+32,7867 Nature Lane,Columbia,Missouri,65211,United States
+33,14922 Southern Trace,Bakersfield,California,93381,United States
+34,7903 Tanglewood Place,Knoxville,Tennessee,37995,United States
+35,829 Maria Court,Mesa,Arizona,85205,United States
+36,11883 Henry Loop,Boise,Idaho,83711,United States
+37,498 Hampton Lane,Pompano Beach,Florida,33075,United States
+38,5424 Talley Ridge Drive,Tempe,Arizona,85284,United States
+39,4431 Lane Terrace,Washington,District of Columbia,20525,United States
+40,691 Memory Avenue,Orlando,Florida,32825,United States
+41,3349 Wotring Way,Richmond,Virginia,23228,United States
+42,4260 Waycross Place,Jacksonville,Florida,32255,United States
+43,14144 Aintree Lane,San Diego,California,92137,United States
+44,3901 Hiles Place,Newton,Massachusetts,02458,United States
+45,1908 Willow Brook Lane,Brooklyn,New York,11220,United States
+46,7012 Stepping Stone Path,Richmond,Virginia,23220,United States
+47,9493 Montez Loop,Tampa,Florida,33647,United States
+48,14198 Boiling Springs Court,Ocala,Florida,34474,United States
+49,4635 Fahs Loop,Van Nuys,California,91406,United States
+50,4217 Sand Pine Terrace,Birmingham,Alabama,35244,United States
+51,2376 Southland Court,San Francisco,California,94110,United States
+52,4530 Manchester Avenue,Portland,Oregon,97211,United States
+53,133 Carlsbad Court,Louisville,Kentucky,40233,United States
+54,13534 Holley Terrace,Kansas City,Missouri,64179,United States
+55,1994 Devonshire Way,Washington,District of Columbia,20299,United States
+56,10992 Dolan Court,Greenville,South Carolina,29610,United States
+57,6522 Melrose Court,Ashburn,Virginia,22093,United States
+58,8024 Ambler Circle,Washington,District of Columbia,20470,United States
+59,3179 Merrill Lane,Denton,Texas,76210,United States
+60,11706 Saranac Place,Washington,District of Columbia,56944,United States
+61,13935 Limerick Lane,Norfolk,Virginia,23509,United States
+62,3315 Ramos Drive,New York City,New York,10014,United States
+63,4418 Cuthbert Circle,San Antonio,Texas,78265,United States
+64,12631 Moultrie Way,Saint Paul,Minnesota,55188,United States
+65,3447 Talley Ridge Drive,Hartford,Connecticut,06105,United States
+66,14083 Johnston Path,Wichita,Kansas,67220,United States
+67,9750 Encino Lane,Washington,District of Columbia,20380,United States
+68,13589 Trongon Terrace,New Hyde Park,New York,11044,United States
+69,7852 Garner Path,Trenton,New Jersey,08619,United States
+70,1713 Yalaha Avenue,Austin,Texas,78737,United States
+71,2802 Black Water Drive,Ridgely,Maryland,21684,United States
+72,6355 Sharp Street,Sacramento,California,94237,United States
+73,3218 Jonquil Place,Saint Louis,Missouri,63169,United States
+74,9725 Kauska Way,Portland,Oregon,97221,United States
+75,9010 Kananwood Terrace,Littleton,Colorado,80161,United States
+76,12251 Erika Place,San Bernardino,California,92405,United States
+77,7255 Pardo Place,Mobile,Alabama,36605,United States
+78,1667 Capri Court,Memphis,Tennessee,38126,United States
+79,8175 Kempton Place,Orlando,Florida,32808,United States
+80,11011 Marlboro Street,Tampa,Florida,33610,United States
+81,2723 Yolanda Lane,San Jose,California,95194,United States
+82,1827 Manchester Avenue,Washington,District of Columbia,20409,United States
+83,237 Oviedo Court,Montgomery,Alabama,36195,United States
+84,11920 Nestlebranch Avenue,Worcester,Massachusetts,01605,United States
+85,4241 Cipriano Place,Gastonia,North Carolina,28055,United States
+86,4597 Empire Avenue,Raleigh,North Carolina,27610,United States
+87,2191 Bermudez Court,Los Angeles,California,90189,United States
+88,3256 Jersey Terrace,El Paso,Texas,88574,United States
+89,353 Singh Lane,Whittier,California,90605,United States
+90,7077 Wenk Place,Pensacola,Florida,32520,United States
+91,8540 Gardena Court,Philadelphia,Pennsylvania,19115,United States
+92,8609 Grasso Circle,San Bernardino,California,92405,United States
+93,1361 Amelia Avenue,New York City,New York,10131,United States
+94,10797 La Hermosa Drive,Huntsville,Alabama,35815,United States
+95,12861 Hydrangea Avenue,Richmond,Virginia,23242,United States
+96,2416 Emporia Place,Charlotte,North Carolina,28299,United States
+97,4368 Altamonte Way,San Jose,California,95118,United States
+98,11267 Emporia Place,Columbus,Ohio,43226,United States
+99,1828 Fry Terrace,Nashville,Tennessee,37235,United States
+100,9879 Herrick Court,Charlottesville,Virginia,22908,United States
